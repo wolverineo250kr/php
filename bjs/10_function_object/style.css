@@ -1,0 +1,9 @@
+body .card,
+body .card-body {
+    border: 0px solid transparent;
+}
+
+body .card-header{
+    background-color: rgb(23 162 184);
+    color: white;
+}
